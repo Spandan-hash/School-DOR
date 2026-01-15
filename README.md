@@ -4,3 +4,4 @@ This project aligns with SDG 4(Education For All) & aims at understanding the sc
 This project separately deals with children at various levels of education belonging to both the Genders.
 it also includes an Prediction model using Random forest Regression mechanism to predict the prospective drop-out rates of any specific category.
 We have also provided Solutions and Suggestive approach for mitigating those problems
+wawee
